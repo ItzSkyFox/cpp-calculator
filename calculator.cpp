@@ -1,7 +1,6 @@
 #include <iostream>
 /*
     Bug log: fixed divide by error problem
-    testing if git is working
 */
 int main(){
     // defining the numbers and collecting info for calculating
