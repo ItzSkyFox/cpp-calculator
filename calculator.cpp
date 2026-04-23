@@ -1,6 +1,6 @@
 #include <iostream>
 /*
-    Bug log: fixed divide by error problem
+    Bug log: fixed divide by error problem.
 */
 int main(){
     // defining the numbers and collecting info for calculating
@@ -20,15 +20,15 @@ int main(){
     // calculation section (ik code might not be optimized)
     if (o==1){
         int a={x+y};
-        std::cout << x << " added to " << y << "=" << a << std::endl;
+        std::cout << x << " added to " << y << " = " << a << std::endl;
     }
     else if (o==2){
         int a={x-y};
-        std::cout << x << " subtracted by " << y << "=" << a << std::endl;
+        std::cout << x << " subtracted by " << y << " = " << a << std::endl;
     }
     else if (o==3){
         int a={x*y};
-        std::cout << x << " multiplied by " << y << "=" << a << std::endl;
+        std::cout << x << " multiplied by " << y << " = " << a << std::endl;
     }
     else if (o==4){
         if (y==0){
