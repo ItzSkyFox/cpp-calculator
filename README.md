@@ -1,4 +1,4 @@
-#C++ Calculator Project
+**# C++ Calculator Project**
 
 ## ❓️ What is this?
 
@@ -12,7 +12,7 @@ drop questions and i will answer whenever i can!
 ---
 # 🧮️ Structure of the Calculator
 
-# Modes
+## Modes
 
 1. 😁️ Simple
 2. 💀️ Advanced (in alpha stage)
