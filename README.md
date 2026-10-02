@@ -1,4 +1,4 @@
-**# C++ Calculator Project**
+# **C++ Calculator Project**
 
 ## ❓️ What is this?
 
